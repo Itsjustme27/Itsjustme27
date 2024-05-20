@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Prayush Hada</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsjustme27" alt="itsjustme27" /></a> </p>
+
 
 - 🌱 I’m currently learning **React and .NET Core**
+- Currently a First year Student in University(Undergraduate/Bachelor)
 
 - 📫 How to reach me **reachprayush@gmail.com**
 
@@ -20,3 +21,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsjustme27&show_icons=true&locale=en" alt="itsjustme27" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsjustme27&" alt="itsjustme27" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsjustme27" alt="itsjustme27" /></a> </p>
