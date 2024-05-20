@@ -2,7 +2,7 @@
 
 
 - 🌱 I’m currently learning **React and .NET Core**
-- Currently a First year Student in University(Undergraduate/Bachelor)
+- 🎓 Currently a First year Student in University(Undergraduate/Bachelor)
 
 - 📫 How to reach me **reachprayush@gmail.com**
 
