@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prayush Hada</h1>
 
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Flask**
 - 🎓 Currently a First year Student in University(Undergraduate/Bachelor)
 
 - 📫 How to reach me **reachprayush@gmail.com**
