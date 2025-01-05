@@ -80,8 +80,6 @@
 </p>
 <hr />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsjustme27&show_icons=true&locale=en&layout=compact" alt="itsjustme27" /></p>
-
-<hr />
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsjustme27&show_icons=true&locale=en" alt="itsjustme27" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsjustme27&" alt="itsjustme27" /></p>
 
