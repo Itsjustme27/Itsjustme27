@@ -15,7 +15,7 @@
 
 <hr/>
 <h3 align="left">Development Languages and Tools:</h3>
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,bash,powershell,c,cpp,cs,git,java,mysql,php,html,css,javascript,bootstrap,mongodb,express,react,nodejs,figma,linux,latex,cs,git,vim,threejs,jquery,docker,kali&perline=14" />
   </a>
