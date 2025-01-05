@@ -15,8 +15,12 @@
 
 <hr/>
 <h3 align="left">Development Languages and Tools:</h3>
+---
+## 0x00 <span style="color: blue !important;">&gt;</span>Development Tools and Languages
 [![My Skills](https://skillicons.dev/icons
 i=py,bash,powershell,c,cpp,cs,git,java,mysql,php,html,css,javascript,bootstrap,mongodb,express,react,nodejs,figma,linux,latex,cs,git,vim,threejs,jquery,docker&perline=12)](https://skillicons.dev)
+
+---
 
 <hr />
 
