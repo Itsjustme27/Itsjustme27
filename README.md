@@ -78,7 +78,7 @@
   <img src="https://icon.icepanel.io/Technology/svg/Matplotlib.svg" alt="matplotlib" width="40" height="40" />
 </a>
 </p>
-
+<hr />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsjustme27&show_icons=true&locale=en&layout=compact" alt="itsjustme27" /></p>
 
 <hr/>
