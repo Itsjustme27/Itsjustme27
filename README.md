@@ -22,8 +22,8 @@
 </p>
 
 <hr />
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsjustme27&show_icons=true&locale=en&layout=compact" alt="itsjustme27" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsjustme27&theme=tokyonight&hide show_icons=true&locale=en&layout=compact" alt="itsjustme27" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsjustme27&show_icons=true&locale=en" alt="itsjustme27" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsjustme27&theme=tokyonight&hide show_icons=true&locale=en" alt="itsjustme27" /></p>
 <hr />
 <p align="left"> <a href="[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)]"><img src="https://github-profile-trophy.vercel.app/?username=itsjustme27" alt="itsjustme27" /></a> </p>
