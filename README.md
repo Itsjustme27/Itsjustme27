@@ -26,6 +26,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsjustme27&theme=tokyonight&hide&show_icons=true&locale=en" alt="itsjustme27" /></p>
 <hr />
-<script src="https://tryhackme.com/badge/2341757"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/Itsjustme27.png" alt="Your Image Badge" />
 <hr />
 <p align="left"> <a href="[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)]"><img src="https://github-profile-trophy.vercel.app/?username=itsjustme27&theme=onestar&no-frame=false&margin-w=4" alt="itsjustme27" /></a> </p>
