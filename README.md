@@ -11,6 +11,7 @@
 <a href="https://linkedin.com/in/prayush hada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prayush hada" height="30" width="40" /></a>
 </p>
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/Itsjustme27.png" alt="Your Image Badge" />
 <img src="https://i.pinimg.com/originals/20/d7/8e/20d78ebeeb5c059eaba70dc979ab8fa9.gif" >
 
 <hr/>
@@ -26,6 +27,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsjustme27&theme=tokyonight&hide&show_icons=true&locale=en" alt="itsjustme27" /></p>
 <hr />
-<img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2341757" style='border:none;'></img>
+
 <hr />
 <p align="left"> <a href="[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)]"><img src="https://github-profile-trophy.vercel.app/?username=itsjustme27&theme=onestar&no-frame=false&margin-w=4" alt="itsjustme27" /></a> </p>
