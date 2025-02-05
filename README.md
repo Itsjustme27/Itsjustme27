@@ -19,7 +19,7 @@
 <h3 align="left">Development Languages and Tools:</h3>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,bash,powershell,c,cpp,cs,git,java,mysql,php,html,css,javascript,bootstrap,mongodb,express,react,nodejs,figma,linux,latex,flask,obsidian,vim,threejs,jquery,docker,kali&perline=14" />
+    <img src="https://skillicons.dev/icons?i=py,bash,powershell,c,cpp,cs,git,java,mysql,php,html,css,javascript,bootstrap,mongodb,express,react,nodejs,figma,linux,latex,flask,obsidian,neovim,threejs,jquery,docker,kali&perline=14" />
   </a>
 </p>
 
