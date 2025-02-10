@@ -13,8 +13,6 @@
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/Itsjustme27.png" alt="Your Image Badge" />
 
-<img src="https://i.pinimg.com/originals/20/d7/8e/20d78ebeeb5c059eaba70dc979ab8fa9.gif" >
-
 <hr/>
 <h3 align="left">Development Languages and Tools:</h3>
 <p>
