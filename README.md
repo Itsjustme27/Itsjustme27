@@ -5,7 +5,7 @@
 - 🎓 Currently a Second year Student in University(Undergraduate/Bachelor)
 
 - 📫 How to reach me **reachprayush@gmail.com**
-- I develop websites and Games when I am not trying to break them.😊 
+- I develop Systems,Websites and Games when I am not trying to break them.😊 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
