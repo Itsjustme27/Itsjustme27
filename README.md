@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **php**
 - 🎓 Currently a Second year Student in University(Undergraduate/Bachelor)
-
+- 🔭 I’m currently working on **developing and setting up DVWA and a Homelab**
 - 📫 How to reach me **reachprayush@gmail.com**
 - I develop Systems,Websites and Games when I am not trying to break them.😊 
 
