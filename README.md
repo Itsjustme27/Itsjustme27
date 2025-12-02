@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Prayush Hada</h1>
 
 
-- 🌱 I’m currently learning **php**
-- 🎓 Currently a Second year Student in University(Undergraduate/Bachelor)
-- 🔭 I’m currently working on **developing and setting up DVWA and a Homelab**
+- 🌱 I’m currently learning **rust**
+- 🎓 Currently a Third year Student in University(Undergraduate/Bachelor)
+- 🔭 I’m currently focusing on forensics.
 - 📫 How to reach me **reachprayush@gmail.com**
 - I develop Systems,Websites and Games when I am not trying to break them.😊 
 
