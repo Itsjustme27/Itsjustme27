@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **rust**
 - 🎓 Currently a Third year Student in University(Undergraduate/Bachelor)
-- 🔭 I’m currently focusing on forensics.
+- 🔭 Currently focused on blue teaming, security automation, and DevSecOps fundamentals (with DFIR experience).
 - 📫 How to reach me **reachprayush@gmail.com**
 - I develop Systems,Websites and Games when I am not trying to break them.😊 
 
