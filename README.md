@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prayush Hada</h1>
 <h3 align="center">SOC Analyst @ CryptoGen Nepal 🇳🇵 </h3>
 
-- 🎓 Currently a Third year Student in University(Undergraduate/Bachelor)
+- 🎓 Currently a Third year Student in Pokhara University(Undergraduate/Bachelor)
 - 🔭 Currently focused on blue teaming, security automation, and DevSecOps fundamentals (with DFIR experience).
 - 📫 How to reach me **reachprayush@gmail.com**
 - I develop Systems,Websites and Games when I am not trying to break them.😊 
