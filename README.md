@@ -78,9 +78,20 @@ Vuln Research        FortiSIEM bug disclosure & mitigation
 ## Stack
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,bash,powershell,c,rust,cpp,cs,dotnet,java,mysql,php,html,css,javascript,bootstrap,mongodb,express,react,nodejs,figma,linux,latex,flask,obsidian,neovim,threejs,jquery,docker,git,laravel&perline=14" />
-  </a>
+  
+### Programming
+
+<img src="https://skillicons.dev/icons?i=c,rust,py,bash,go,cpp,php,react,nodejs,docker,linux,git,laravel,neovim" />
+
+### Security Tooling
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-214F7B?style=flat-square&logo=nmap&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![LogPoint](https://img.shields.io/badge/LogPoint-SIEM-blue?style=flat-square)
+![Falco](https://img.shields.io/badge/Falco-eBPF-teal?style=flat-square)
+![radare2](https://img.shields.io/badge/radare2-RE-black?style=flat-square)
 </p>
 
 ---
