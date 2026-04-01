@@ -87,10 +87,4 @@ Vuln Research        FortiSIEM bug disclosure & mitigation
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Itsjustme27&theme=tokyonight&show_icons=true&hide_border=true" height="160" />
-  &nbsp;
-
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Itsjustme27&theme=tokyonight&layout=compact&hide=html,css&hide_border=true" height="160" />
-</p>
+![Metrics](https://raw.githubusercontent.com/Itsjustme27/Itsjustme27/main/github-metrics.svg)
