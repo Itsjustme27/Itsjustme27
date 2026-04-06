@@ -18,7 +18,7 @@
 ## Who I am
 
 SOC Analyst at **CryptoGen Nepal**,
-3rd-year undergrad at Pokhara University (BSc Cybersecurity). I read kernel source for fun, write detection tools in C and Rust, and think about systems from the hardware registers up.
+3rd-year undergrad at Pokhara University (BCSIT). I read kernel source for fun, write detection tools in C and Rust, and think about systems from the hardware registers up.
 
 I build tools to **understand** systems — not just ship code.
 
