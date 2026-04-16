@@ -61,7 +61,6 @@ Gobuster-inspired directory brute-forcer.
 ## Career
 ```
 SOC Analyst          CryptoGen Nepal          current
-Onsite SOC           NCSC Nepal               incoming
 Cybersecurity Intern Sapience
 Vuln Research        FortiSIEM bug disclosure & mitigation
 ```
