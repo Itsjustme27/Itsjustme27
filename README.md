@@ -80,7 +80,7 @@ Vuln Research        FortiSIEM bug disclosure & mitigation
   
 ### Programming
 
-<img src="https://skillicons.dev/icons?i=c,rust,py,bash,go,cpp,php,react,nodejs,docker,linux,git,laravel,neovim" />
+<img src="https://skillicons.dev/icons?i=c,rust,py,bash,powershell,cpp,php,react,nodejs,docker,linux,git,laravel,neovim" />
 
 ### Security Tooling
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
@@ -89,6 +89,8 @@ Vuln Research        FortiSIEM bug disclosure & mitigation
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 ![LogPoint](https://img.shields.io/badge/LogPoint-SIEM-blue?style=flat-square)
+![fortisiem](https://img.shields.io/badge/FortiSIEM-SIEM-black?style=flat-square)
+![Logrhythm](https://img.shields.io/badge/Logrhythm-SIEM-black?style=flat-square)
 ![Falco](https://img.shields.io/badge/Falco-eBPF-teal?style=flat-square)
 ![radare2](https://img.shields.io/badge/radare2-RE-black?style=flat-square)
 </p>
