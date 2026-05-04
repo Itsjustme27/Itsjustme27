@@ -80,7 +80,7 @@ Vuln Research        FortiSIEM bug disclosure & mitigation
   
 ### Programming
 
-<img src="https://skillicons.dev/icons?i=c,rust,py,bash,powershell,elasticsearch, fastapi, flask, fortran, jquery, cpp,php,react,nodejs,nextjs, postgres, sqlite, threejs, docker,linux,git,laravel,neovim, java, dotnet, latex " />
+<img src="https://skillicons.dev/icons?i=c,rust,py,bash,powershell,elasticsearch, fastapi, flask, fortran, jquery, cpp,php,react,nodejs,nextjs, postgres, sqlite, threejs, docker,linux,git,laravel,neovim, java, dotnet, latex, qt " />
 
 ### Security Tooling
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
