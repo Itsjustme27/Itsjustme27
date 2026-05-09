@@ -21,6 +21,10 @@
 ![radare2](https://img.shields.io/badge/radare2-RE-black?style=flat-square)
 </p>
 
+## ✍️ Latest Blog Post
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Itsjustme27&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Itsjustme27&theme=dark&hide_border=false)<br/>
