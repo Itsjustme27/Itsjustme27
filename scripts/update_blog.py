@@ -1,7 +1,7 @@
 import requests
 import re
 
-README_PATH = "../README.md"
+README_PATH = "README.md"
 START_MARKER = "<!-- BLOG-POST-LIST:START -->"
 END_MARKER = "<!-- BLOG-POST-LIST:END -->"
 
