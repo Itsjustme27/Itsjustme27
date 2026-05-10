@@ -23,6 +23,7 @@
 
 ## ✍️ Latest Blog Post
 <!-- BLOG-POST-LIST:START -->
+📝 [From Reading the Kernel to Breaking It — Dirty Cow (CVE-2016-5195) End to End](https://prayush.hashnode.dev/from-reading-the-kernel-to-breaking-it-dirty-cow-cve-2016-5195-end-to-end)
 <!-- BLOG-POST-LIST:END -->
 
 # 📊 GitHub Stats:
