@@ -1,15 +1,34 @@
-import feedparser
+import requests
 import re
 
-FEED_URL = "https://prayush.hashnode.dev/rss.xml"
-README_PATH = "README.md"
+README_PATH = "../README.md"
 START_MARKER = "<!-- BLOG-POST-LIST:START -->"
 END_MARKER = "<!-- BLOG-POST-LIST:END -->"
 
-feed = feedparser.parse(FEED_URL)
-latest = feed.entries[0]
+query = """
+{
+  publication(host: "prayush.hashnode.dev") {
+    posts(first: 1) {
+      edges {
+        node {
+          title
+          url
+        }
+      }
+    }
+  }
+}
+"""
 
-post_md = f"📝 [{latest.title}]({latest.link})"
+response = requests.post(
+    "https://gql.hashnode.com",
+    json={"query": query},
+    headers={"Content-Type": "application/json"}
+)
+
+data = response.json()
+post = data["data"]["publication"]["posts"]["edges"][0]["node"]
+post_md = f"📝 [{post['title']}]({post['url']})"
 
 with open(README_PATH, "r") as f:
     content = f.read()
@@ -25,4 +44,4 @@ updated = re.sub(
 with open(README_PATH, "w") as f:
     f.write(updated)
 
-print(f"Updated with: {latest.title}")
+print(f"Updated with: {post['title']}")
