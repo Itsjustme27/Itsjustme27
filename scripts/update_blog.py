@@ -1,34 +1,21 @@
 import requests
 import re
+import xml.etree.ElementTree as ET
 
 README_PATH = "README.md"
 START_MARKER = "<!-- BLOG-POST-LIST:START -->"
 END_MARKER = "<!-- BLOG-POST-LIST:END -->"
 
-query = """
-{
-  publication(host: "prayush.hashnode.dev") {
-    posts(first: 1) {
-      edges {
-        node {
-          title
-          url
-        }
-      }
-    }
-  }
-}
-"""
+response = requests.get("https://prayush.hashnode.dev/rss.xml")
+response.raise_for_status()
 
-response = requests.post(
-    "https://gql.hashnode.com",
-    json={"query": query},
-    headers={"Content-Type": "application/json"}
-)
+root = ET.fromstring(response.content)
+item = root.find("./channel/item")  # first post
 
-data = response.json()
-post = data["data"]["publication"]["posts"]["edges"][0]["node"]
-post_md = f"📝 [{post['title']}]({post['url']})"
+title = item.findtext("title")
+url = item.findtext("link")
+
+post_md = f"📝 [{title}]({url})"
 
 with open(README_PATH, "r") as f:
     content = f.read()
@@ -44,4 +31,4 @@ updated = re.sub(
 with open(README_PATH, "w") as f:
     f.write(updated)
 
-print(f"Updated with: {post['title']}")
+print(f"Updated with: {title}")
