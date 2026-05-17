@@ -8,7 +8,7 @@ END_MARKER = "<!-- BLOG-POST-LIST:END -->"
 
 response = requests.get(
     "https://prayush.hashnode.dev/rss.xml",
-    header={"User-Agent": "Mozilla/5.0 (compatible UA)"}
+    headers={"User-Agent": "Mozilla/5.0 (compatible UA)"}
     )
 response.raise_for_status()
 
