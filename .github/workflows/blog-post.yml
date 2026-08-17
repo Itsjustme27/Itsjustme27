@@ -5,19 +5,25 @@ on:
     - cron: '0 */12 * * *'  # runs every 12 hours
   workflow_dispatch:  # lets you trigger it manually too
 
+# Required so github-actions[bot] can push the updated README.
+# Without this the default GITHUB_TOKEN is read-only and `git push` 403s,
+# which silently fails every scheduled run.
+permissions:
+  contents: write
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install requests feedparser
+        run: pip install requests
 
       - name: Fetch and update README
         run: python scripts/update_blog.py
