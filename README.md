@@ -51,8 +51,7 @@
 
 ## 📊 GitHub Stats
 
-![Prayush's GitHub stats](https://github-readme-stats.shion.dev/api?username=Itsjustme27&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
-![GitHub streak](https://streak-stats.demolab.com/?user=Itsjustme27&theme=dark&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Itsjustme27&theme=dracula&hide_border=true)](https://git.io/streak-stats)
 ![Top languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Itsjustme27&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 Trophies
