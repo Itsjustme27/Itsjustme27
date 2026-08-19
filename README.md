@@ -1,6 +1,6 @@
 # Hi, I'm Prayush 👋
 
-> **Offensive security & detection engineering** — I break things at the kernel level, and build the detections that catch them.
+> **Offensive security,Threat Hunting & detection engineering** — I break things at the kernel level, and build the detections that catch them.
 
 - 🔭 **Currently:** Linux kernel internals, vulnerability research & exploit development
 - 🛡️ **Also in my wheelhouse:** detection engineering & SIEM (Splunk, LogPoint, FortiSIEM, LogRhythm) and eBPF runtime security with Falco
